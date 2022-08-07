@@ -1,0 +1,35 @@
+body{
+    background-image: none;
+}
+div{
+    
+    margin-left: 800px;
+}
+.a{
+    background-color: blue;
+    height: 20px;
+    width: 190px;
+    color: azure;
+    border-radius: 6%;
+    font-size: medium;
+margin-top: -10px;
+margin-left: 500px;
+
+
+}
+.b{
+    background-color: blue;
+    height: 20px;
+    width:190px;
+    color: azure;
+    border-radius: 6%;
+    margin-left: 520px;
+}
+.c{
+    background-color: blue;
+height: 20px;
+width: 195px;
+color: azure;
+border-radius: 6%;
+margin-left: 540px;
+}

@@ -1,0 +1,16 @@
+div{
+    background-color: blue;
+    width: 300px;
+    height: 300px;
+
+    color: brown;
+    font-size: 1cm;
+}
+.div1{
+    background-color: aquamarine;
+    color: blueviolet;
+}
+.div2{
+    background-color: blueviolet;
+    color: brown;
+}

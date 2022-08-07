@@ -1,0 +1,57 @@
+.div1{
+    background-color: aqua;
+    height: 250px;
+    width: 250px;
+    color: brown;
+    font-size:x-large;
+    position: absolute;
+    text-align: center;
+}
+.div2{
+    background-color: blue;
+    height: 250px;
+    width: 250px;
+    color: brown;
+    margin-left: 249.4px;
+    margin-top: -23px;
+    
+    font-size:x-large;
+    text-align: center;
+position: absolute;
+}
+.div3{
+    background-color: green;
+    height: 250px;
+    width: 250px;
+    color: brown;
+    margin-left: 498.3px;
+    margin-top: -23.9px;
+    font-size:x-large;
+    text-align: center;
+    position: absolute;
+}
+body{
+    background-color: blueviolet;
+}
+@media (max-width: 800px) {
+    body{
+        background-color: rgb(43, 226, 49);
+    
+    }
+    .div1{ 
+        color: azure;
+    
+        }
+        .div2{
+            color: azure;
+        }
+        .div3{
+            color: azure;
+        }
+    }
+}
+@media (max-width: 600px) {
+    body{
+        background-color: rgb(226, 43, 144);
+    
+}
